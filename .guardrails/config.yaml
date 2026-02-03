@@ -1,0 +1,42 @@
+version: 1
+
+# Project type
+project_type: remotion_video
+
+paths:
+  code_roots: ["testvideo/src/"]
+  docs_files: ["docs/PLAN.md", "docs/CHANGELOG.md", "docs/SESSION_SUMMARY.md"]
+  guardrail_files: [".guardrails/checklist.md", ".guardrails/claude_meta.md", ".guardrails/system_architecture.md", ".guardrails/ui_architecture.md"]
+
+metrics_window_days: 30
+
+thresholds:
+  docs_update_rate_min: 0.6       # 直近変更の60%以上でdocs更新があること
+  session_summary_recency_days: 30
+  conventional_commits_ratio_min: 0.8
+  rollback_documented_min: 1      # 直近期間で最低1回は失敗記録があると良い（隠蔽防止）
+
+naming:
+  guardrail_commit_prefix: "docs(guardrail):"
+  conventional_regex: "^(build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test)(\\(.+\\))?:\\s"
+
+# Remotion specific
+remotion:
+  default_fps: 30
+  default_resolution:
+    width: 1920
+    height: 1080
+  output_formats: ["mp4", "webm"]
+
+quality_gates:
+  - name: lint
+    command: "npm run lint"
+    cwd: "testvideo"
+  - name: studio
+    command: "npm run dev"
+    cwd: "testvideo"
+    manual: true
+  - name: render
+    command: "npx remotion render"
+    cwd: "testvideo"
+    manual: true

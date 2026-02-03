@@ -1,0 +1,47 @@
+# AI Tool Local Configs
+.agent/
+.claude/
+.codex/
+.cursor/
+.gemini/
+.kiro/
+.serena/
+
+# Node
+node_modules/
+.npm
+
+# Build outputs
+dist/
+out/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Remotion specific
+.remotion/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Docker
+docker-compose.override.yml
+
+# Assets (large files)
+.assets/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+.cc-attachments/
+nul

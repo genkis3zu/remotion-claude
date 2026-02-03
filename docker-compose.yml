@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  voicevox:
+    image: voicevox/voicevox_engine:cpu-ubuntu20.04-latest
+    container_name: voicevox-engine
+    ports:
+      - "50021:50021"
+    restart: unless-stopped
+    # GPU版を使う場合は以下に変更:
+    # image: voicevox/voicevox_engine:nvidia-ubuntu20.04-latest
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
