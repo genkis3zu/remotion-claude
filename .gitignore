@@ -22,6 +22,7 @@ Thumbs.db
 
 # IDE
 .idea/
+.vscode/
 *.swp
 *.swo
 
@@ -45,5 +46,10 @@ docker-compose.override.yml
 
 .cc-attachments/
 nul
+
+
+# Temporary test files
+test_*.png
+test_*.py
 
 .guardrails/

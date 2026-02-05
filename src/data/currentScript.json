@@ -1,0 +1,28 @@
+[
+    {
+        "character": "zundamon",
+        "emotion": "normal",
+        "text": "これはテストなのだ。うまく動いているかな？",
+        "durationSec": 3,
+        "layout": {
+            "left": "zundamon",
+            "center": "none",
+            "right": "metan"
+        },
+        "thoughtProcess": "様子を伺う",
+        "activeSpeaker": "zundamon"
+    },
+    {
+        "character": "metan",
+        "emotion": "happy",
+        "text": "ええ、順調そうね。スクリプトの自動生成も楽しみだわ。",
+        "durationSec": 4,
+        "layout": {
+            "left": "zundamon",
+            "center": "none",
+            "right": "metan"
+        },
+        "thoughtProcess": "笑顔で肯定",
+        "activeSpeaker": "metan"
+    }
+]

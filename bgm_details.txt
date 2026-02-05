@@ -1,0 +1,65 @@
+10℃.mp3 : [mp3 @ 00000271a7535100] Estimating duration from bitrate, this may be inaccurate
+10℃.mp3 :   Duration: 00:03:37.39, start: 0.000000, bitrate: 320 kb/s
+2_23_AM.mp3 : [mp3 @ 0000022f4acf5100] Estimating duration from bitrate, this may be inaccurate
+2_23_AM.mp3 :   Duration: 00:03:15.91, start: 0.000000, bitrate: 320 kb/s
+Cat_life.mp3 : [mp3 @ 000001423d365100] Estimating duration from bitrate, this may be inaccurate
+Cat_life.mp3 :   Duration: 00:02:31.54, start: 0.000000, bitrate: 160 kb/s
+famipop3.mp3 : [mp3 @ 0000023ec8b75100] Estimating duration from bitrate, this may be inaccurate
+famipop3.mp3 :   Duration: 00:02:14.09, start: 0.000000, bitrate: 128 kb/s
+Morning.mp3 : [mp3 @ 000001aade9c5100] Estimating duration from bitrate, this may be inaccurate
+Morning.mp3 :   Duration: 00:02:45.19, start: 0.000000, bitrate: 320 kb/s
+Recollections.mp3 : [mp3 @ 000001b8d3a05100] Estimating duration from bitrate, this may be inaccurate
+Recollections.mp3 :   Duration: 00:03:34.03, start: 0.000000, bitrate: 128 kb/s
+SUMMER_TRIANGLE.mp3 : [mp3 @ 000001f579b15100] Estimating duration from bitrate, this may be inaccurate
+SUMMER_TRIANGLE.mp3 :   Duration: 00:02:08.18, start: 0.000000, bitrate: 320 kb/s
+Trick_style.mp3 : [mp3 @ 000002dee4705100] Estimating duration from bitrate, this may be inaccurate
+Trick_style.mp3 :   Duration: 00:07:12.68, start: 0.000000, bitrate: 192 kb/s
+いつもの風景.mp3 : [mp3 @ 000001d9615959c0] Estimating duration from bitrate, this may be inaccurate
+いつもの風景.mp3 :   Duration: 00:03:19.18, start: 0.000000, bitrate: 193 kb/s
+おさんぽ.mp3 : [mp3 @ 0000022d19295100] Estimating duration from bitrate, this may be inaccurate
+おさんぽ.mp3 :   Duration: 00:01:13.89, start: 0.000000, bitrate: 160 kb/s
+おどれグロッケンシュピール.mp3 : [mp3 @ 00000253357151c0] Estimating duration from bitrate, this may be inaccurate
+おどれグロッケンシュピール.mp3 :   Duration: 00:03:14.00, start: 0.000000, bitrate: 320 kb/s
+おやおや？.mp3 : [mp3 @ 000002a41ea95100] Estimating duration from bitrate, this may be inaccurate
+おやおや？.mp3 :   Duration: 00:01:57.89, start: 0.000000, bitrate: 193 kb/s
+かえるのピアノ.mp3 : [mp3 @ 0000021c6faa59c0] Estimating duration from bitrate, this may be inaccurate
+かえるのピアノ.mp3 :   Duration: 00:01:36.16, start: 0.000000, bitrate: 192 kb/s
+ぐだぐだな感じ.mp3 : [mp3 @ 0000019145dd59c0] Estimating duration from bitrate, this may be inaccurate
+ぐだぐだな感じ.mp3 :   Duration: 00:01:34.15, start: 0.000000, bitrate: 320 kb/s
+ちょっと楽しい.mp3 :   Duration: 00:01:01.73, start: 0.025057, bitrate: 320 kb/s
+とある日常.mp3 : [mp3 @ 000001b6eda35100] Estimating duration from bitrate, this may be inaccurate
+とある日常.mp3 :   Duration: 00:04:23.42, start: 0.000000, bitrate: 192 kb/s
+なんでしょう？.mp3 : [mp3 @ 00000224cb8559c0] Estimating duration from bitrate, this may be inaccurate
+なんでしょう？.mp3 :   Duration: 00:05:05.89, start: 0.000000, bitrate: 192 kb/s
+パステルハウス_2.mp3 : [mp3 @ 0000020d5c0159c0] Estimating duration from bitrate, this may be inaccurate
+パステルハウス_2.mp3 :   Duration: 00:03:00.55, start: 0.000000, bitrate: 320 kb/s
+ほんわかぷっぷー.mp3 : [mp3 @ 0000015f4ee059c0] Estimating duration from bitrate, this may be inaccurate
+ほんわかぷっぷー.mp3 :   Duration: 00:01:16.39, start: 0.000000, bitrate: 320 kb/s
+ゆりかご.mp3 :   Duration: 00:00:22.67, start: 0.025057, bitrate: 186 kb/s
+わくわくクッキングタイム的なBGM.mp3 : [mp3 @ 000002525d5b51c0] Estimating duration from bitrate, this may be inaccurate
+わくわくクッキングタイム的なBGM.mp3 :   Duration: 00:02:04.53, start: 0.000000, bitrate: 161 kb/s
+夏はsummer!!.mp3 :   Duration: 00:03:18.08, start: 0.023021, bitrate: 192 kb/s
+夏祭りの露店通り.mp3 : [mp3 @ 000001a0360159c0] Estimating duration from bitrate, this may be inaccurate
+夏祭りの露店通り.mp3 :   Duration: 00:01:40.08, start: 0.000000, bitrate: 194 kb/s
+極東の羊、テレキャスターと踊る.mp3 : [mp3 @ 0000016d334c51c0] Estimating duration from bitrate, this may be inaccurate
+極東の羊、テレキャスターと踊る.mp3 :   Duration: 00:01:47.51, start: 0.000000, bitrate: 320 kb/s
+子供って愉快だなぁ.mp3 :   Duration: 00:01:32.38, start: 0.025057, bitrate: 320 kb/s
+自宅にて.mp3 : [mp3 @ 0000026c98c45100] Estimating duration from bitrate, this may be inaccurate
+自宅にて.mp3 :   Duration: 00:05:56.88, start: 0.000000, bitrate: 192 kb/s
+春のキッチン.mp3 :   Duration: 00:01:53.57, start: 0.025057, bitrate: 230 kb/s
+少年達の夏休み的なBGM.mp3 : [mp3 @ 000002731a7f59c0] Estimating duration from bitrate, this may be inaccurate
+少年達の夏休み的なBGM.mp3 :   Duration: 00:01:39.37, start: 0.000000, bitrate: 321 kb/s
+審判の日.mp3 : [mp3 @ 00000210e5fd5100] Estimating duration from bitrate, this may be inaccurate
+審判の日.mp3 :   Duration: 00:00:58.07, start: 0.000000, bitrate: 195 kb/s
+神隠しの真相.mp3 : [mp3 @ 000002a13ce259c0] Estimating duration from bitrate, this may be inaccurate
+神隠しの真相.mp3 :   Duration: 00:02:45.52, start: 0.000000, bitrate: 192 kb/s
+全てを創造する者「Dominus_Deus」.mp3 : [mp3 @ 0000023e579851c0] Estimating duration from bitrate, this may be inaccurate
+全てを創造する者「Dominus_Deus」.mp3 :   Duration: 00:02:07.29, start: 0.000000, bitrate: 193 kb/s
+他愛のない話.mp3 : [mp3 @ 000001a9301b59c0] Estimating duration from bitrate, this may be inaccurate
+他愛のない話.mp3 :   Duration: 00:01:38.90, start: 0.000000, bitrate: 194 kb/s
+昼下がり気分.mp3 : [mp3 @ 000002415c2459c0] Estimating duration from bitrate, this may be inaccurate
+昼下がり気分.mp3 :   Duration: 00:03:55.26, start: 0.000000, bitrate: 192 kb/s
+追いかけっこキャッハー.mp3 : [mp3 @ 00000153a0ae59c0] Estimating duration from bitrate, this may be inaccurate
+追いかけっこキャッハー.mp3 :   Duration: 00:02:12.28, start: 0.000000, bitrate: 192 kb/s
+日曜の午後.mp3 : [mp3 @ 000001e3c0ed5100] Estimating duration from bitrate, this may be inaccurate
+日曜の午後.mp3 :   Duration: 00:01:45.56, start: 0.000000, bitrate: 194 kb/s

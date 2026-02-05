@@ -1,0 +1,721 @@
+[
+  {
+    "title": "Hook",
+    "mood": "energetic",
+    "segment": "hook",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "zundamon",
+        "text": "みんな聞いてくれなのだ！ブラックホールに落ちるとスパゲッティになれるらしいのだ！",
+        "emotion": "happy",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "スパゲッティ＝美味しい、という短絡的な思考で、ブラックホールに行けば食べ放題だと勘違いして興奮している。",
+        "backgroundPrompt": "宇宙のブラックホール, 4k, 渦巻く光, ダーク",
+        "highlightWords": [
+          "スパゲッティ",
+          "ブラックホール"
+        ]
+      },
+      {
+        "character": "metan",
+        "text": "…それは『スパゲッティ化現象』のことかしら。体が引き延ばされて死ぬのよ。",
+        "emotion": "normal",
+        "durationSec": 4.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "ずんだもんの無知に呆れつつ、冷静に事実（死）を突きつけている。哀れみを含む。",
+        "insertImagePrompt": "ブラックホールに吸い込まれて細長く引き伸ばされる宇宙飛行士のイラスト, 科学的図解"
+      },
+      {
+        "character": "zundamon",
+        "text": "えええ！？死ぬのは嫌なのだ！ボクはただ美味しいパスタになりたかっただけなのだ！",
+        "emotion": "surprised",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "死ぬと聞いて驚愕し、自分の食い意地が招いた危機（妄想）に動揺している。",
+        "highlightWords": [
+          "死ぬ",
+          "嫌なのだ"
+        ]
+      },
+      {
+        "character": "tsumugi",
+        "text": "あはは！ずんだもんはそのままでも枝豆ペーストじゃん！とりあえず今日は宇宙と日常のヤバい雑学、いってみよー！埼玉！",
+        "emotion": "happy",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "場の空気を明るくするためにツッコミを入れつつ、勢いよくタイトルコールへ繋げている。",
+        "backgroundPrompt": "明るいスタジオセット, ポップ, 放送局風",
+        "highlightWords": [
+          "宇宙",
+          "日常",
+          "雑学"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Intro",
+    "mood": "energetic",
+    "segment": "intro",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "metan",
+        "text": "今回は『宇宙の果て』から『日常の隙間』まで、アナタの脳みそを刺激する選りすぐりの雑学を紹介するわよ。",
+        "emotion": "smug",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "解説役としての自信と余裕を見せている。視聴者の知的好奇心を煽る。",
+        "backgroundPrompt": "宇宙と日常風景がコラージュされた背景, ミステリアスかつポップ"
+      },
+      {
+        "character": "zundamon",
+        "text": "脳みそを刺激されるのは怖いけど、賢くなればお小遣いアップなのだ？",
+        "emotion": "normal",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "知識への興味はなく、打算（金）だけで動こうとしている。"
+      },
+      {
+        "character": "tsumugi",
+        "text": "ずんだもん、世の中そんなに甘くないし。でも、今日のネタは明日学校や職場で話せるやつばっかだし、最後まで見ないと損する埼玉！",
+        "emotion": "happy",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "視聴者に対して『見ないと損』という損失回避性を刺激しつつ、親しみやすくアピール。"
+      }
+    ]
+  },
+  {
+    "title": "Body1_Space",
+    "mood": "mysterious",
+    "segment": "body_main",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "zundamon",
+        "text": "まずは宇宙の話なのだ。宇宙って無重力だから、フワフワして楽しそうなのだ。",
+        "emotion": "happy",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "宇宙への憧れ。平和なイメージ。",
+        "backgroundPrompt": "国際宇宙ステーションから見た地球, 4k, 美しい"
+      },
+      {
+        "character": "metan",
+        "text": "優雅に見えるけど、実は『宇宙に行くと焼けたステーキの匂いがする』って知ってた？",
+        "emotion": "normal",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "意外な事実を投げかけて興味を惹く。",
+        "highlightWords": [
+          "焼けたステーキ",
+          "匂い"
+        ]
+      },
+      {
+        "character": "zundamon",
+        "text": "ステーキ！？宇宙人はBBQ好きなのだ！？ボクも混ぜてほしいのだ！",
+        "emotion": "surprised",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "食べ物の話題に即座に反応し、宇宙人＝BBQ仲間という謎の解釈をしている。",
+        "backgroundPrompt": "宇宙空間でBBQをする宇宙人のイラスト, コミカル"
+      },
+      {
+        "character": "metan",
+        "text": "違うわよ。船外活動から戻った宇宙服から、金属の溶接や焼けた肉のような匂いがするの。多環芳香族炭化水素などが原因と言われているわ。",
+        "emotion": "normal",
+        "durationSec": 8.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "科学的な根拠をさらっと解説して知識を披露。",
+        "insertImagePrompt": "宇宙飛行士が船外活動をしている写真, リアル, 高解像度"
+      },
+      {
+        "character": "tsumugi",
+        "text": "へー！なんか意外！あーしは宇宙に行くと身長が伸びるって聞いたことあるけど？",
+        "emotion": "happy",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "話題を転換しつつ、自分の知識を確認している。",
+        "backgroundPrompt": "宇宙空間に浮遊する人体図, 背骨が伸びる様子"
+      },
+      {
+        "character": "metan",
+        "text": "正解よ。重力がないから背骨の椎間板が広がって、身長が数センチ伸びるの。でも地球に帰ると元に戻るわ。",
+        "emotion": "normal",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "肯定しつつ、オチ（元に戻る）をつけて現実を教える。",
+        "insertImagePrompt": "背骨の椎間板が広がる様子の図解, 医療系イラスト"
+      },
+      {
+        "character": "zundamon",
+        "text": "ぬぬっ！ボクも宇宙に行けば高身長イケメンになれるチャンスがあったのに、戻っちゃうなんて詐欺なのだ…",
+        "emotion": "sad",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "身長コンプレックスが刺激され、ぬか喜びに終わったことに落胆している。"
+      },
+      {
+        "character": "metan",
+        "text": "最後は少し怖い話。太陽にも寿命があるの。約50億年後には膨張して『赤色巨星』になり、地球を飲み込むかもしれないわ。",
+        "emotion": "serious",
+        "durationSec": 8.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "声のトーンを落とし、スケールの大きな恐怖を演出。",
+        "backgroundPrompt": "赤色巨星と化した巨大な太陽が地球に迫る様子, 終末的, 4k",
+        "highlightWords": [
+          "50億年後",
+          "赤色巨星",
+          "地球を飲み込む"
+        ]
+      },
+      {
+        "character": "zundamon",
+        "text": "ご、50億年後！？明日の宿題とか悩んでる場合じゃないのだ！今すぐ全財産でお菓子を買ってくるのだ！",
+        "emotion": "surprised",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "遠い未来の話を自分事として捉え、極端な行動（現実現実逃避）に走ろうとしている（パニック）。"
+      }
+    ]
+  },
+  {
+    "title": "Break1_Tsumugi",
+    "mood": "relaxing",
+    "segment": "break",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "tsumugi",
+        "text": "はいはーい！ここで『つむぎの素朴なギモン』のコーナー！",
+        "emotion": "happy",
+        "durationSec": 4.0,
+        "layout": {
+          "left": "none",
+          "center": "tsumugi",
+          "right": "none"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "画面を独占し、明るくコーナー転換。",
+        "backgroundPrompt": "パステルカラーの可愛い部屋, 配信画面風",
+        "highlightWords": [
+          "つむぎの",
+          "素朴なギモン"
+        ]
+      },
+      {
+        "character": "tsumugi",
+        "text": "宇宙ってさ、太陽があるのになんで暗いの？昼間の空みたいに明るくないの不思議じゃない？",
+        "emotion": "normal",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "none",
+          "center": "tsumugi",
+          "right": "none"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "視聴者が一度は思ったことがありそうな疑問を代弁する。",
+        "insertImagePrompt": "宇宙空間に太陽が輝いているが背景は真っ暗な写真"
+      },
+      {
+        "character": "metan",
+        "text": "（声のみ）それはね、光を散乱させる『空気』がないからよ。地球の空が青いのは空気が太陽光を散らしているから。宇宙はスカスカだからね。",
+        "emotion": "normal",
+        "durationSec": 8.0,
+        "layout": {
+          "left": "none",
+          "center": "tsumugi",
+          "right": "none"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "画面外からの天の声として解説。優しく教えるトーン。"
+      },
+      {
+        "character": "tsumugi",
+        "text": "なるほど〜！空気読めないやつじゃなくて、空気がないやつだったんだね！スッキリ埼玉！",
+        "emotion": "happy",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "none",
+          "center": "tsumugi",
+          "right": "none"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "納得しつつ、独特な言い回しで締める。",
+        "highlightWords": [
+          "スッキリ埼玉"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Body2_Daily",
+    "mood": "playful",
+    "segment": "body_main",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "zundamon",
+        "text": "宇宙の話は怖かったから、もっと身近な話がいいのだ。ガムでも噛んで落ち着くのだ。",
+        "emotion": "normal",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "話題を日常に戻す。リラックスしようとしている。",
+        "backgroundPrompt": "カフェのテラス席, 温かいイラスト調"
+      },
+      {
+        "character": "metan",
+        "text": "あら偶然。実は『ガムを噛むと集中力がアップする』って研究結果があるのよ。スポーツ選手が噛んでいるのもそのためね。",
+        "emotion": "normal",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "ずんだもんの行動を肯定しつつ、知識を被せる。",
+        "insertImagePrompt": "ガムを噛んで集中している野球選手のイラスト"
+      },
+      {
+        "character": "tsumugi",
+        "text": "集中したい時はコーヒーもいいよね！匂いだけでリラックス効果あるっていうし。",
+        "emotion": "happy",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "関連話題（リラックス/集中）を提示。",
+        "insertImagePrompt": "湯気の立つコーヒーカップの温かいイラスト"
+      },
+      {
+        "character": "metan",
+        "text": "そうね。コーヒー豆の香りには脳のアルファ波を増やす効果があるわ。飲む前から効果があるなんてお得よね。",
+        "emotion": "normal",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "つむぎの知識を補強。",
+        "highlightWords": [
+          "アルファ波",
+          "リラックス"
+        ]
+      },
+      {
+        "character": "zundamon",
+        "text": "へぇ〜。じゃあボクも、毎日ベッドメイキングしてから二度寝すれば成功者になれるのだ？",
+        "emotion": "smug",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "『ベッドメイキング＝成功の習慣』という知識を曲解し、二度寝を正当化しようとしている。",
+        "backgroundPrompt": "豪華なベッドで眠るずんだもんのイラスト"
+      },
+      {
+        "character": "metan",
+        "text": "二度寝したら意味ないでしょ！でも『ベッドメイキングをする人は年収が高い傾向がある』というのは本当よ。小さな達成感が自信に繋がるの。",
+        "emotion": "angry",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "前半は強めのツッコミ、後半は解説。感情の切り替え。"
+      },
+      {
+        "character": "zundamon",
+        "text": "ふん！ボクはドアをバターン！って閉める音で、みんなにボクの存在感をアピールしてるから自信満々なのだ！",
+        "emotion": "smug",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "さらに間違った方向（ドアをうるさく閉める）で自信を示そうとする迷惑行為。"
+      },
+      {
+        "character": "metan",
+        "text": "それは逆効果よ。ドアを乱暴に閉める人は、実は『自己顕示欲』が強くて『精神的に不安定』な傾向があるの。静かに閉める人の方が信頼されるわよ。",
+        "emotion": "normal",
+        "durationSec": 8.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "心理学的観点からずんだもんをバッサリ論破。",
+        "highlightWords": [
+          "自己顕示欲",
+          "精神的に不安定"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Break2_Chaos",
+    "mood": "energetic",
+    "segment": "break",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "zundamon",
+        "text": "うわあああ！ボクは不安定じゃないのだ！ボクは神なのだ！崇めるのだー！！（暴走）",
+        "emotion": "angry",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "図星を突かれて逆ギレし、暴れ回って誤魔化そうとしている。",
+        "backgroundPrompt": "集中線が走る漫画風の背景, 混沌",
+        "highlightWords": [
+          "うわあああ！",
+          "神なのだ！"
+        ]
+      },
+      {
+        "character": "metan",
+        "text": "うるさいわね…（ボスッ）",
+        "emotion": "normal",
+        "durationSec": 3.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "冷静に物理攻撃（ハリセン等）を加える音。",
+        "insertImagePrompt": "ハリセンで叩かれるずんだもんのコミカルなイラスト"
+      },
+      {
+        "character": "zundamon",
+        "text": "あべしっ！！",
+        "emotion": "surprised",
+        "durationSec": 2.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "やられた声。"
+      },
+      {
+        "character": "tsumugi",
+        "text": "…はい、ということでね。ずんだもんが星になったところで、最後はまた宇宙の深い話に戻りまーす。",
+        "emotion": "happy",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "カオスな状況をスルーして、淡々と進行に戻す。ドライな対応。"
+      }
+    ]
+  },
+  {
+    "title": "Body3_Deep",
+    "mood": "serious",
+    "segment": "body_main",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "metan",
+        "text": "気を取り直して。宇宙には『絶対零度』に近い場所があるの。ブーメラン星雲はマイナス272℃よ。",
+        "emotion": "serious",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "真面目なトーンに戻り、極限の世界を解説。",
+        "backgroundPrompt": "ブーメラン星雲の実際の画像またはリアルな再現, 青白く輝く, 4k",
+        "highlightWords": [
+          "マイナス272℃",
+          "ブーメラン星雲"
+        ]
+      },
+      {
+        "character": "zundamon",
+        "text": "ひえぇ…冷凍庫より寒いのだ。バナナで釘が打てるどころか、ボクが釘になっちゃうのだ。",
+        "emotion": "sad",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "寒さを想像して震えている。"
+      },
+      {
+        "character": "metan",
+        "text": "次は山ね。火星にある『オリンポス山』は標高約25,000メートル。エベレストの3倍近くある太陽系最大の山よ。",
+        "emotion": "normal",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "スケールの大きさを強調。",
+        "insertImagePrompt": "火星のオリンポス山とエベレストの比較図, リアル"
+      },
+      {
+        "character": "tsumugi",
+        "text": "デカすぎ！登るのに何日かかるんだろ…てか、火星って1日は何時間なの？",
+        "emotion": "surprised",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "素朴な疑問を投げかける。"
+      },
+      {
+        "character": "metan",
+        "text": "いい質問ね。火星の1日は『24時間40分』。地球とほぼ同じなのよ。だから将来、人類が移住しやすいと言われているの。",
+        "emotion": "happy",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "的確な質問を褒めつつ解説。",
+        "highlightWords": [
+          "24時間40分",
+          "移住"
+        ]
+      },
+      {
+        "character": "metan",
+        "text": "最後は『孤独な惑星（ローグ・プラネット）』の話。どの恒星系にも属さず、暗闇の宇宙を永遠に一人で彷徨う惑星があるの。",
+        "emotion": "serious",
+        "durationSec": 8.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "少し詩的で哀愁漂うトーン。孤独さを強調。",
+        "backgroundPrompt": "恒星のない真っ暗な宇宙に浮かぶ孤立した惑星, 寂しい, 4k",
+        "highlightWords": [
+          "孤独な惑星",
+          "ローグ・プラネット"
+        ]
+      },
+      {
+        "character": "zundamon",
+        "text": "ず〜っとひとりぼっちなのだ…？それは、いくらボクでも寂しくて泣いちゃうのだ…。",
+        "emotion": "sad",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "none",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "孤独な惑星に感情移入してしんみりしている。"
+      },
+      {
+        "character": "tsumugi",
+        "text": "でもさ、誰にも縛られずに自由ってことじゃん？ちょっと憧れるかも。",
+        "emotion": "normal",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "別の視点（自由）を提示して、重くなりすぎないようにする。"
+      }
+    ]
+  },
+  {
+    "title": "Outro",
+    "mood": "relaxing",
+    "segment": "outro",
+    "visualStyle": "default",
+    "items": [
+      {
+        "character": "metan",
+        "text": "さて、今日の雑学の旅はどうだったかしら？宇宙の果てからベッドルームまで、世界は不思議で満ちているわね。",
+        "emotion": "happy",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "metan",
+        "thoughtProcess": "エンディングの挨拶。穏やかな笑顔。",
+        "backgroundPrompt": "美しい星空と都市の夜景が融合した背景, 感動的"
+      },
+      {
+        "character": "zundamon",
+        "text": "ボクはやっぱり、温かいベッドで寝て、美味しいものを食べる日常が最高なのだ。",
+        "emotion": "happy",
+        "durationSec": 5.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "非日常（宇宙）を知ったからこそ、日常の幸せを再確認している。"
+      },
+      {
+        "character": "tsumugi",
+        "text": "だね！みんなの感想もコメントで教えてね！チャンネル登録と高評価もしないと、ずんだもんが夜中にドアガチャするよ！埼玉！",
+        "emotion": "happy",
+        "durationSec": 7.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "tsumugi",
+        "thoughtProcess": "視聴者へのアクション喚起。少し脅しを入れつつジョークにする。",
+        "highlightWords": [
+          "チャンネル登録",
+          "高評価",
+          "ドアガチャ"
+        ]
+      },
+      {
+        "character": "zundamon",
+        "text": "しないのだ！…でも、登録してくれたら夢に出てあげてもいいのだ！それじゃあ、また次回なのだ！",
+        "emotion": "smug",
+        "durationSec": 6.0,
+        "layout": {
+          "left": "zundamon",
+          "center": "tsumugi",
+          "right": "metan"
+        },
+        "activeSpeaker": "zundamon",
+        "thoughtProcess": "ツンデレな挨拶で締める。",
+        "highlightWords": [
+          "また次回"
+        ]
+      }
+    ]
+  }
+]

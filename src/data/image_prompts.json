@@ -1,0 +1,134 @@
+[
+  {
+    "type": "background",
+    "prompt": "宇宙のブラックホール, 4k, 渦巻く光, ダーク",
+    "filename": "bg_0_0.png",
+    "path": "public/assets/bg/bg_0_0.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "ブラックホールに吸い込まれて細長く引き伸ばされる宇宙飛行士のイラスト, 科学的図解",
+    "filename": "insert_0_1.png",
+    "path": "public/assets/inserts/insert_0_1.png"
+  },
+  {
+    "type": "background",
+    "prompt": "明るいスタジオセット, ポップ, 放送局風",
+    "filename": "bg_0_3.png",
+    "path": "public/assets/bg/bg_0_3.png"
+  },
+  {
+    "type": "background",
+    "prompt": "宇宙と日常風景がコラージュされた背景, ミステリアスかつポップ",
+    "filename": "bg_1_0.png",
+    "path": "public/assets/bg/bg_1_0.png"
+  },
+  {
+    "type": "background",
+    "prompt": "国際宇宙ステーションから見た地球, 4k, 美しい",
+    "filename": "bg_2_0.png",
+    "path": "public/assets/bg/bg_2_0.png"
+  },
+  {
+    "type": "background",
+    "prompt": "宇宙空間でBBQをする宇宙人のイラスト, コミカル",
+    "filename": "bg_2_2.png",
+    "path": "public/assets/bg/bg_2_2.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "宇宙飛行士が船外活動をしている写真, リアル, 高解像度",
+    "filename": "insert_2_3.png",
+    "path": "public/assets/inserts/insert_2_3.png"
+  },
+  {
+    "type": "background",
+    "prompt": "宇宙空間に浮遊する人体図, 背骨が伸びる様子",
+    "filename": "bg_2_4.png",
+    "path": "public/assets/bg/bg_2_4.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "背骨の椎間板が広がる様子の図解, 医療系イラスト",
+    "filename": "insert_2_5.png",
+    "path": "public/assets/inserts/insert_2_5.png"
+  },
+  {
+    "type": "background",
+    "prompt": "赤色巨星と化した巨大な太陽が地球に迫る様子, 終末的, 4k",
+    "filename": "bg_2_7.png",
+    "path": "public/assets/bg/bg_2_7.png"
+  },
+  {
+    "type": "background",
+    "prompt": "パステルカラーの可愛い部屋, 配信画面風",
+    "filename": "bg_3_0.png",
+    "path": "public/assets/bg/bg_3_0.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "宇宙空間に太陽が輝いているが背景は真っ暗な写真",
+    "filename": "insert_3_1.png",
+    "path": "public/assets/inserts/insert_3_1.png"
+  },
+  {
+    "type": "background",
+    "prompt": "カフェのテラス席, 温かいイラスト調",
+    "filename": "bg_4_0.png",
+    "path": "public/assets/bg/bg_4_0.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "ガムを噛んで集中している野球選手のイラスト",
+    "filename": "insert_4_1.png",
+    "path": "public/assets/inserts/insert_4_1.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "湯気の立つコーヒーカップの温かいイラスト",
+    "filename": "insert_4_2.png",
+    "path": "public/assets/inserts/insert_4_2.png"
+  },
+  {
+    "type": "background",
+    "prompt": "豪華なベッドで眠るずんだもんのイラスト",
+    "filename": "bg_4_4.png",
+    "path": "public/assets/bg/bg_4_4.png"
+  },
+  {
+    "type": "background",
+    "prompt": "集中線が走る漫画風の背景, 混沌",
+    "filename": "bg_5_0.png",
+    "path": "public/assets/bg/bg_5_0.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "ハリセンで叩かれるずんだもんのコミカルなイラスト",
+    "filename": "insert_5_1.png",
+    "path": "public/assets/inserts/insert_5_1.png"
+  },
+  {
+    "type": "background",
+    "prompt": "ブーメラン星雲の実際の画像またはリアルな再現, 青白く輝く, 4k",
+    "filename": "bg_6_0.png",
+    "path": "public/assets/bg/bg_6_0.png"
+  },
+  {
+    "type": "insert",
+    "prompt": "火星のオリンポス山とエベレストの比較図, リアル",
+    "filename": "insert_6_2.png",
+    "path": "public/assets/inserts/insert_6_2.png"
+  },
+  {
+    "type": "background",
+    "prompt": "恒星のない真っ暗な宇宙に浮かぶ孤立した惑星, 寂しい, 4k",
+    "filename": "bg_6_5.png",
+    "path": "public/assets/bg/bg_6_5.png"
+  },
+  {
+    "type": "background",
+    "prompt": "美しい星空と都市の夜景が融合した背景, 感動的",
+    "filename": "bg_7_0.png",
+    "path": "public/assets/bg/bg_7_0.png"
+  }
+]

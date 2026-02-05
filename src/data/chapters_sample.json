@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Hook Section",
+        "mood": "energetic",
+        "segment": "hook",
+        "visualStyle": "default",
+        "items": [
+            {
+                "character": "zundamon",
+                "text": "衝撃の真実！ロブスターは不老不死！？",
+                "thoughtProcess": "Exaggerating for effect",
+                "emotion": "surprised",
+                "durationSec": 5,
+                "layout": {
+                    "left": "zundamon",
+                    "center": "none",
+                    "right": "none"
+                },
+                "activeSpeaker": "zundamon",
+                "highlightWords": [
+                    "不老不死"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Split Screen Demo",
+        "mood": "serious",
+        "segment": "body_main",
+        "visualStyle": "split",
+        "visualContent": {
+            "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+        },
+        "items": [
+            {
+                "character": "metan",
+                "text": "実は、ロブスターは脱皮を繰り返すことで...",
+                "thoughtProcess": "Explaining facts",
+                "emotion": "normal",
+                "durationSec": 5,
+                "layout": {
+                    "left": "none",
+                    "center": "none",
+                    "right": "metan"
+                },
+                "activeSpeaker": "metan"
+            }
+        ]
+    },
+    {
+        "title": "Bento Grid Demo",
+        "mood": "playful",
+        "segment": "body_main",
+        "visualStyle": "bento",
+        "visualContent": {
+            "bentoItems": [
+                {
+                    "id": "1",
+                    "title": "Point 1",
+                    "content": "Lobsters don't age",
+                    "colSpan": 2
+                },
+                {
+                    "id": "2",
+                    "title": "Point 2",
+                    "content": "They grow forever",
+                    "colSpan": 1
+                },
+                {
+                    "id": "3",
+                    "title": "Point 3",
+                    "content": "Tasty",
+                    "colSpan": 1
+                }
+            ]
+        },
+        "items": [
+            {
+                "character": "zundamon",
+                "text": "すごいのだ！不老不死最強なのだ！",
+                "thoughtProcess": "Excitement",
+                "emotion": "happy",
+                "durationSec": 5,
+                "layout": {
+                    "left": "zundamon",
+                    "center": "none",
+                    "right": "metan"
+                },
+                "activeSpeaker": "zundamon"
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+{
+  "name": "testvideo",
+  "version": "1.0.0",
+  "description": "My Remotion video",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.409",
+    "@remotion/google-fonts": "^4.0.409",
+    "@remotion/tailwind-v4": "4.0.409",
+    "@remotion/transitions": "4.0.409",
+    "@remotion/zod-types": "4.0.409",
+    "budoux": "^0.7.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.409",
+    "tailwindcss": "4.0.0",
+    "yaml": "^2.8.2",
+    "zod": "3.22.3"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.409",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.19.0",
+    "playwright": "^1.58.1",
+    "prettier": "3.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "voices": "node scripts/generate-voices.mjs",
+    "render": "remotion render VoicevoxVideo out/voicevox-video.mp4",
+    "sync-settings": "npx ts-node scripts/sync-settings.ts",
+    "init-template": "npx ts-node scripts/init-project.ts"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

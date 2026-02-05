@@ -1,0 +1,32 @@
+{
+    "title": "chapter1",
+    "mood": "playful",
+    "items": [
+        {
+            "character": "zundamon",
+            "emotion": "normal",
+            "text": "これより、長尺動画のテストを開始するのだ。",
+            "durationSec": 3,
+            "layout": {
+                "left": "zundamon",
+                "center": "none",
+                "right": "metan"
+            },
+            "reasoning": "自信満々に宣言",
+            "activeSpeaker": "zundamon"
+        },
+        {
+            "character": "metan",
+            "emotion": "happy",
+            "text": "自動化パイプラインの構築ね。うまくいけば10分の動画も楽々作れるわ。",
+            "durationSec": 4,
+            "layout": {
+                "left": "zundamon",
+                "center": "none",
+                "right": "metan"
+            },
+            "reasoning": "期待を寄せる",
+            "activeSpeaker": "metan"
+        }
+    ]
+}
